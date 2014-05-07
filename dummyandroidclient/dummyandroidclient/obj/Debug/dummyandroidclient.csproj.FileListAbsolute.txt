@@ -1,0 +1,10 @@
+C:\Users\osotsi_ak\Desktop\dummyandroidclient\dummyandroidclient\bin\Debug\dummyandroidclient.exe.config
+P:\dummyandroidclient\dummyandroidclient\bin\Debug\dummyandroidclient.exe.config
+P:\dummyandroidclient\dummyandroidclient\bin\Debug\dummyandroidclient.exe
+P:\dummyandroidclient\dummyandroidclient\bin\Debug\dummyandroidclient.pdb
+P:\dummyandroidclient\dummyandroidclient\obj\Debug\dummyandroidclient.csprojResolveAssemblyReference.cache
+P:\dummyandroidclient\dummyandroidclient\obj\Debug\dummyandroidclient.androidPhone.resources
+P:\dummyandroidclient\dummyandroidclient\obj\Debug\dummyandroidclient.Properties.Resources.resources
+P:\dummyandroidclient\dummyandroidclient\obj\Debug\dummyandroidclient.csproj.GenerateResource.Cache
+P:\dummyandroidclient\dummyandroidclient\obj\Debug\dummyandroidclient.exe
+P:\dummyandroidclient\dummyandroidclient\obj\Debug\dummyandroidclient.pdb
